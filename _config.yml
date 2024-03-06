@@ -10,11 +10,11 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://tomshy-dev.github.io'
-baseurl:          '/jekyll-gitbook'
+baseurl:          '/tomshy-dev.github.io'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: tomshy-dev/jekyll-gitbook
+remote_theme: tomshy-dev
 
 toc:
   enabled: true
